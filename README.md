@@ -1,4 +1,4 @@
-# Netflix-Checker
+"# Netflix-Checker
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -42,3 +42,4 @@ with open('hesaplar.txt', 'r') as file:
             # Tarayıcıyı kapat
             browser.quit()
 
+"
