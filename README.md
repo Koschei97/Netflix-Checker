@@ -42,24 +42,3 @@ with open('hesaplar.txt', 'r') as file:
             # Tarayıcıyı kapat
             browser.quit()
 
-İyi forumlar.
-Son düzenleme: Nis 2, 2023
-Dikkat:Bu forumda paylaşılan herhangi bir içeriğin sorumluluğunu kabul etmediğimi beyan ederim. Bu forumda paylaşılan herhangi bir materyalin doğruluğunu, eksiksizliğini veya yasallığını garanti etmiyorum ve herhangi bir zarar veya kayıp durumunda sorumlu tutulamazım. Herhangi bir forum kullanıcısı, paylaşılan içeriği kullanmadan önce kendi takdiri ve sorumluluğu altında olmalıdır.
-
--Koschei97
-CevaplaRapor Düzenle
-LikeTepkiler: ege3132421, caferzıpcıktı, ane ve 54 diğerleri
-Hanx
-0 ₺
-Bakiye
-3
-Begeni
-.
-KatılımEki 14, 2021
-Mesajlar27
-Tcoin19,820
-Mar 24, 2023
-Yeri işaretle
-#2
-Sebebi üst üste denemelerin argoritma algılıyor ve girdiğin uygulamaya tüm hesaplari engeller aynısı bana oldu
- LikeCevaplaRapor
